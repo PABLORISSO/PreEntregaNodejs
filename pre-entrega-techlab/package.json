@@ -1,0 +1,13 @@
+{
+  "name": "pre-entrega-techlab",
+  "version": "1.0.0",
+  "description": "CLI para gestionar productos con FakeStore API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --env-file=.env index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
